@@ -107,6 +107,7 @@ int * binaryconvert(int n,int k){
                        }
                 break;
               }
+              // i added this to track the size it is not necessary
               printf("%d",size);
             
           }
