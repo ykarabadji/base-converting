@@ -119,19 +119,6 @@ int * binaryconvert(int n,int k){
           hexatable[size-1]=binarydecimale(temp,4);
         }
         
-        
-         
-
-
-
-
-
-
-
-
-
-
-
         return hexatable;
      }
      //coverting binary to decimale;
